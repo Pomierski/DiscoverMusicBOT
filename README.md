@@ -2,8 +2,8 @@
 
 ## About
 One of my older projects that I recently somewhat tweaked to be usable. 
-Currently working on another music bot, that won't upset youtube with playing music,
-so it will stay at current state, just as small fullstack project.
+Currently working on another music bot, that won't upset youtube with playing music.
+For now it will stay at current state, just as small fullstack project.
 
 ## Requirements
 
