@@ -27,4 +27,4 @@ Create config.json file in main directory
 Then
 
 `npm install`
-`npm start
+`npm start`
